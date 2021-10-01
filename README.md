@@ -1,2 +1,3 @@
 # Book-Reviews
-Created with CodeSandbox
+For the selected genre, it gives the title, author, description, and rating for the books.
+
