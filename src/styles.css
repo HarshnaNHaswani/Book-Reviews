@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+h1 {
+  font-family: serif;
+  font-size: 3rem;
+  color: rgb(70, 64, 150);
+  background-color: rgb(194, 18, 150);
+}
+
+input {
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+}
+div {
+  padding: 2rem;
+  font-size: 2rem;
+}
+span {
+  padding: 0.5rem;
+  cursor: pointer;
+  margin: 2rem 2rem;
+  border: 2px solid black;
+  background-color: plum;
+}
+ul {
+  list-style-type: none;
+}
+.container {
+  border: 10px;
+}
+li {
+  padding: 1rem;
+  border: 0.25px solid rgb(32, 32, 83);
+  margin: 1rem;
+}
+li p {
+  font-size: 1rem;
+  text-align: left;
+}
+
+hr {
+  margin: 2rem;
+}
